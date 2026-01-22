@@ -1,5 +1,7 @@
 # 🚀 Exterview.ai UI Replication
 
+**Live Demo:** [https://frontend-task-ev.vercel.app/](https://frontend-task-ev.vercel.app/)
+
 A high-fidelity, responsive, and modular replication of the [Exterview.ai](https://exterview.ai/) home page. Built with a focus on modern frontend standards, clean architecture, and premium aesthetics.
 
 ---
