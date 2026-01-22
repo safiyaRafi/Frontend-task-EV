@@ -93,6 +93,4 @@ npm run build
 - **Accessibility**: Used semantic HTML elements (`<main>`, `<nav>`, `<footer>`, `<section>`) for better SEO and screen reader support.
 - **Animations**: Subtle CSS-only micro-animations (pulse, bounce, scale) to provide a premium feel without overhead.
 
----
 
-*This project was developed as part of a Frontend Assessment Task for Exterview.*
